@@ -17,11 +17,13 @@ while(exit == 1):                                                   #while loop 
         2. length n cyclic poly-ene
         3. sp2-hybridised Platonic Solids
     >>> '''))
-        if compound >= 1 and compound <=3:      
+        if compound >= 1 and compound <=3: 
+            print("\n==============================================")
             break
         else:
             print("Please choose from the options above.")
-        print("==============================================")    
+            print("\n==============================================") 
+           
 
     while(1):                                                       #while loop to ensure user input is within the choices given
         print("\nThis is the",compound_dic[compound],"program.")
