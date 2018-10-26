@@ -19,7 +19,10 @@ This program also requires the following python libraries to work:
   3. Networkx (https://github.com/networkx/networkx/)
 
 
-
+RUNNING THE CODE
+========================================================
+Run this python script with your python interpreter and follow the instructions.
+">>>" Requires user input.
 
 EXAMPLE CODE RUN (Visual Studio Code)
 =========================================================
