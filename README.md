@@ -24,7 +24,7 @@ This program also requires the following python libraries to work:
 EXAMPLE CODE RUN (Visual Studio Code)
 =========================================================
 
-(Please view "raw" for better presentation of example code)
+(Please view "Raw"/"Blame": for better presentation of example code)
 
 Microsoft Windows [Version 10.0.17134.345]
 (c) 2018 Microsoft Corporation. All rights reserved.
