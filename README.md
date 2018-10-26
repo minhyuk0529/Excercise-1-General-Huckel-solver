@@ -1,4 +1,4 @@
-# Exercise1
+# Exercise1 (Please view "raw" for better presentation of example code)
 NST Part II Chemistry : Programming Option
 
 INTRODUCTION
