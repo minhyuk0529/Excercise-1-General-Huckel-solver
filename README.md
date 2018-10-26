@@ -15,7 +15,7 @@ REQUIREMENTS
 =========================================================
 This program also requires the following python libraries to work:
   1. Numpy (https://pypi.org/project/numpy/)
-  2. pyutilib.math (if not already downloaded)
+  2. pyutilib.math (if not already downloaded: https://pypi.org/project/pyutilib.math/#files includes wheel and zip)
   3. Networkx (https://github.com/networkx/networkx/)
 
 
